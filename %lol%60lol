@@ -4,7 +4,7 @@ if status:lower():find("online") then
 else
     warn("[JYNXCORE] Script is under maintenance.")
     game.StarterGui:SetCore("SendNotification", {
-        Title = "JynxCore",
+        Title = "CobraCore",
         Text = "Maintenance in progress. Please check back later.",
         Duration = 5
     })
