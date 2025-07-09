@@ -1,5 +1,3 @@
--- This file was protected using Luraph Obfuscator v14.4.1 [https://lura.ph/]
-
 local a = game
 local b = a.HttpGet
 local c = a.StarterGui
